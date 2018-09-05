@@ -1,0 +1,7 @@
+D:\!.NET\Projects\CSharp\CSharp_Essential\Lesson16_Operators\CSharp_Essential_Lesson16_Operators_DopTask\3DPoints\3DPoints\bin\Debug\3DPoints.exe.config
+D:\!.NET\Projects\CSharp\CSharp_Essential\Lesson16_Operators\CSharp_Essential_Lesson16_Operators_DopTask\3DPoints\3DPoints\bin\Debug\3DPoints.exe
+D:\!.NET\Projects\CSharp\CSharp_Essential\Lesson16_Operators\CSharp_Essential_Lesson16_Operators_DopTask\3DPoints\3DPoints\bin\Debug\3DPoints.pdb
+D:\!.NET\Projects\CSharp\CSharp_Essential\Lesson16_Operators\CSharp_Essential_Lesson16_Operators_DopTask\3DPoints\3DPoints\obj\Debug\3DPoints.csprojAssemblyReference.cache
+D:\!.NET\Projects\CSharp\CSharp_Essential\Lesson16_Operators\CSharp_Essential_Lesson16_Operators_DopTask\3DPoints\3DPoints\obj\Debug\3DPoints.csproj.CoreCompileInputs.cache
+D:\!.NET\Projects\CSharp\CSharp_Essential\Lesson16_Operators\CSharp_Essential_Lesson16_Operators_DopTask\3DPoints\3DPoints\obj\Debug\3DPoints.exe
+D:\!.NET\Projects\CSharp\CSharp_Essential\Lesson16_Operators\CSharp_Essential_Lesson16_Operators_DopTask\3DPoints\3DPoints\obj\Debug\3DPoints.pdb
